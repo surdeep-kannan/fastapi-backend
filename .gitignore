@@ -1,0 +1,39 @@
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# 🧰 Virtual environments & local Python libs
+env/
+venv/
+ENV/
+Lib/
+Scripts/
+bin/
+Include/
+*.egg-info/
+dist/
+build/
+
+# ⚙️ VSCode / IDE
+.vscode/
+.idea/
+
+# 🧪 Logs / caches
+*.log
+*.tmp
+.cache/
+.pytest_cache/
+
+# 🗂️ OS files
+.DS_Store
+Thumbs.db
+
+# 🚫 Environment or secret files
+.env
+.env.*
+*.secret
+*.key
